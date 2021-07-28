@@ -23,5 +23,3 @@ workerCtx.onmessage = (event: MessageEvent) => {
       break;
   }
 }
-
-export default workerCtx;
